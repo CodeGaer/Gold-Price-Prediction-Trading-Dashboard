@@ -54,7 +54,7 @@ This chart compares:
 
 It helps evaluate whether the model-based strategy outperforms normal holding.
 
-![Strategy Performance](Dashboard/Gold_Price_Actual_Vs_Predicted.png)
+![Actual vs Predicted](Dashboard/Gold_Price_Actual_Vs_Predicted.png)
 
 ### 🔹 3. Actual vs Predicted Price Chart
 
@@ -65,7 +65,7 @@ This chart compares:
 
 It is used to measure prediction accuracy and model reliability.
 
-![Actual vs Predicted](Dashboard/Strategy_Performance.png)
+![Strategy Performance](Dashboard/Strategy_Performance.png)
 
 ## 📈 Key Insights
 
