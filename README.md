@@ -29,4 +29,51 @@ It helps in understanding how ML models can be applied in financial market analy
 - NumPy  
 - Scikit-learn  
 - Matplotlib  
-- Jupyter Notebook / VS Code  
+- Jupyter Notebook / VS Code
+
+  ## 📊 Dashboard & Model Results
+
+This project includes a visualization dashboard to analyze gold price prediction and trading strategy performance.
+
+---
+
+### 🔹 1. Buy / Sell Signal Chart
+
+This chart shows the generated Buy and Sell signals over the gold price trend.
+
+- ▲ Buy signals indicate potential entry points
+- ▼ Sell signals indicate potential exit points
+- Helps in visually validating the trading strategy
+
+![Buy Sell Signals](Dashboard/Buy_Sell_Signals.png)
+
+### 🔹 2. Strategy Performance Chart
+
+This chart compares:
+
+- Daily Market Returns
+- Strategy Returns generated using ML signals
+
+It helps evaluate whether the model-based strategy outperforms normal holding.
+
+![Strategy Performance](Dashboard/Gold_Price_Actual_Vs_Predicted.png)
+
+### 🔹 3. Actual vs Predicted Price Chart
+
+This chart compares:
+
+- Actual Gold Price
+- Machine Learning Predicted Price
+
+It is used to measure prediction accuracy and model reliability.
+
+![Actual vs Predicted](Dashboard/Strategy_Performance.png)
+
+## 📈 Key Insights
+
+- The model captures the overall gold price trend effectively
+- Buy/Sell signals align with major price movements
+- Strategy returns show controlled volatility
+- Visualization helps in real-time decision analysis
+
+These results demonstrate practical application of Machine Learning in financial trading systems.
