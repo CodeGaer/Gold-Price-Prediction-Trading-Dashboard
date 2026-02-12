@@ -31,11 +31,9 @@ It helps in understanding how ML models can be applied in financial market analy
 - Matplotlib  
 - Jupyter Notebook / VS Code
 
-  ## 📊 Dashboard & Model Results
+## 📊 Dashboard & Model Results
 
 This project includes a visualization dashboard to analyze gold price prediction and trading strategy performance.
-
----
 
 ### 🔹 1. Buy / Sell Signal Chart
 
